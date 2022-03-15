@@ -1,4 +1,3 @@
-class file
-{
-	system.out.println"hello world"
-}
+satya satya
+satya 
+satya 
